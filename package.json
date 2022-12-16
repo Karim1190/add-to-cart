@@ -16,12 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Haute-Ecole-Francisco-Ferrer/App-meteo-2022.git"
+    "url": "git+https://github.com/Karim1190/add-to-cart.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Haute-Ecole-Francisco-Ferrer/App-meteo-2022/issues"
-  },
-  "homepage": "https://github.com/Haute-Ecole-Francisco-Ferrer/App-meteo-2022#readme"
+  "license": "ISC"
+
 }
